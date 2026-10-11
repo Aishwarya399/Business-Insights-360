@@ -6,7 +6,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 ## 🔗 Live Dashboard
 
-[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdkZDZkYjQtMjIyNi00OGJhLTgxNjctNzA1ZjRhNmY3NzdmIiwidCI6IjRmOGMwY2NkLTM0MGEtNGU2Mi04ZDkwLWFhMmJkMzdlZjYxNyJ9)
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M5ODZiYjAtZTA0MS00YTYxLTkxNjgtNDFkMDc4NDhjY2Q3IiwidCI6IjRmOGMwY2NkLTM0MGEtNGU2Mi04ZDkwLWFhMmJkMzdlZjYxNyJ9)
 
 ## Dashboard Views
 
